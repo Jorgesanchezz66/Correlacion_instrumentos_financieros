@@ -25,7 +25,8 @@ streamlit run correlaciones_app.py
 
 ## Capturas
 
-*(Aquí puedes incluir imágenes del gráfico o video demo)*
+<img width="1482" height="798" alt="image" src="https://github.com/user-attachments/assets/4320f830-b94a-47e0-b0fe-b14fd339b7f6" />
+
 
 ## Autor
 
